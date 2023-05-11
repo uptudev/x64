@@ -15,4 +15,4 @@ Now you have an executable binary file (which contains a .bin extension to easil
 
 ## Intel Syntax vs. AT&T Syntax
 
-Since I develop on Linux and prefer the `source, dest` order, I use the AT&T syntax of x86_64, as using the (in my opinion) counterintuitive `dest, source` ordering just seems like a fatal caveat in an otherwise fine Assembly dialect.
+Since I develop on Linux and prefer the `source, dest` order, I use the AT&T syntax of x86_64, as using Intel's (in my opinion) counterintuitive `dest, source` ordering just seems like a fatal caveat in an otherwise fine Assembly dialect.
